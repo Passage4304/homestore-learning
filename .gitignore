@@ -1,0 +1,15 @@
+# venvs
+.venv
+
+# python
+__pycache__
+.pylintrc
+__pycache__/
+cache/
+
+# vscode
+.vscode
+
+# django
+db.sqlite3
+media/
